@@ -51,7 +51,7 @@
 ## 📈 我的 GitHub 贡献数据 (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZUXTUO&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="ZUXTUO's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZUXTUO" alt="ZUXTUO's GitHub Stats" />
 </div>
 
 <div align="center">
