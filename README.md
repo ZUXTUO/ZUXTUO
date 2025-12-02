@@ -51,10 +51,6 @@
 ## 📈 我的 GitHub 贡献数据 (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZUXTUO" alt="ZUXTUO's GitHub Stats" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ZUXTUO&theme=light&hide_border=true" />
     <img src="https://streak-stats.demolab.com/?user=ZUXTUO&theme=dark&hide_border=true" alt="GitHub Streak" />
