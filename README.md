@@ -65,6 +65,12 @@
   </picture>
 </div>
 
+***
+
+<br>
+
+💕总访问量：
+
 ![ZUXTUO](https://count.getloli.com/@ZUXTUO)
 
 ***
