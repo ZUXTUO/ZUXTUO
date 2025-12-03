@@ -65,6 +65,8 @@
   </picture>
 </div>
 
+![ZUXTUO](https://count.getloli.com/@ZUXTUO)
+
 ***
 
 <p align="center">
